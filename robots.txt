@@ -1,0 +1,12 @@
+# CTM Travel — corptravel.uz
+# ВНИМАНИЕ: пока сайт живёт на демо-адресе github.io, индексация закрыта.
+# При переезде на corptravel.uz замените блок ниже на:
+#
+#   User-agent: *
+#   Allow: /
+#   Sitemap: https://corptravel.uz/sitemap.xml
+
+User-agent: *
+Disallow: /
+
+Sitemap: https://corptravel.uz/sitemap.xml
